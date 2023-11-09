@@ -1,0 +1,54 @@
+.btn {
+    position: absolute;
+    left: 600px;
+    top: 500px;
+}
+
+.btn-primary {
+    position: absolute;
+    left: 600px;
+    top: 500px;
+}
+
+.btn-lg {
+    position: absolute;
+    left: 600px;
+    top: 500px;
+}
+
+
+
+
+.jumbotronr {
+    background-color: black;
+    margin: 0%;
+    
+    top: 100px;
+    
+}
+
+.hello {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+        
+}
+
+.jumbotron {
+    background-color: #E9ECEF;
+}
+
+.display-4 {
+    color: red;
+
+}
+
+.menu {
+    position: absolute;
+
+    left: 500px;
+    top: 100px;
+    word-spacing: 25px; 
+    
+      
+}

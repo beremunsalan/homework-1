@@ -1,0 +1,75 @@
+.menu {
+    position: absolute;
+
+    left: 500px;
+    top: 100px;
+    word-spacing: 25px;
+    
+    
+      
+}
+
+.jumbotronr {
+    background-color: black;
+    margin: 0%;
+    
+    top: 100px;
+    
+}
+
+.hello {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    
+}
+
+.açıklama {
+    text-align: center;
+
+}
+
+.bulunanlar {
+    text-align: center;
+    
+}
+
+.cumle {
+    color: chocolate;
+}
+
+ul {
+    list-style: none;
+}
+
+.btn {
+    position: absolute;
+    left: 100px;
+    bottom: 0px;
+}
+
+.btn-primary {
+    position: absolute;
+    left: 100px;
+    bottom: 0px;
+}
+
+.btn-lg {
+    position: absolute;
+    left: 100px;
+    bottom: 0px;
+}
+
+/*bg-color: #E9ECEF*/
+
+.jumbotron {
+    background-color: #E9ECEF;
+}
+
+.display-4 {
+    color: red;
+}
+.merhaba{
+    color: black;
+    text-align: center;
+}

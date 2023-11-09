@@ -1,0 +1,60 @@
+.menu {
+    position: absolute;
+
+    left: 500px;
+    top: 100px;
+    word-spacing: 25px; 
+    
+      
+}
+
+.jumbotronr {
+    background-color: black;
+    margin: 0%;
+    
+    top: 100px;
+    
+}
+
+.hello {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    
+}
+
+.jumbotron {
+    background-color: #E9ECEF;
+}
+
+.display-4 {
+    color: red;
+}
+.merhaba{
+    color: black;
+    text-align: center;
+}
+
+.bulunanlar {
+    text-align: center;
+    
+}
+
+
+.btn {
+    position: absolute;
+    left: 600px;
+}
+
+.btn-primary {
+    position: absolute;
+    left: 600px;
+}
+
+.btn-lg {
+    position: absolute;
+    left: 600px;
+}
+
+/*bg-color: #E9ECEF*/
+
